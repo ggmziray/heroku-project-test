@@ -1,0 +1,9 @@
+/node_modules
+
+npm-debug.log
+
+.DS_Store
+
+/*.env
+
+// this code should keep application artifacts out of GitHub
